@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SoporteIT Reseñas",
+  "description": "Aplicación de reseñas de atención al cliente con alertas instantáneas de correo, panel de control administrativo y resúmenes ejecutivos automáticos de lA cada 24 horas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
